@@ -20,3 +20,5 @@ The data used in this project is sourced from Our World in Data.  The datasets n
 Relevant Reference Materials are included in the [Reference_Articles](Reference_Articles/) folder.  These articles are insightful for gaining understanding regarding this project and its significance as well as how ARIMA modeling was used to forecast life expectancies.
 ## Example Code
 Example code for working with the data for preprocessing, ARIMA, and Facebook Prophet can be found here [Example_Code](./Example_Code).  These files can be helpful for beginning stages of the project, and can give insightful tips for what the next steps are intended to be should you get stuck.
+## Images Used
+Images used in this README and Hook Document can be found here [Images](./Images).
