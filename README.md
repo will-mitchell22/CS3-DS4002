@@ -3,8 +3,9 @@
 This repository contains the materials and instructions necessary to complete a case study on Forecasting Life Expectancy using Time-Series data.  This case study was created during the DS4002 course of Spring 2025.
 ![Alt text](images/global-life-expectancy-increase-2050-1440x810.jpg)
 ## Hook Documents
-The Hook Document is given here [CS3 Hook Document](./CS3%20Hook%20Document.pdf).  This document gives context behind the significance of this project, the motivations for your work, and deliverables that are expected to be created throughout the analysis.
+The Hook Document is given here [CS3 Hook Document](./CS3%20Hook%20Document.pdf).  This document gives context behind the significance of this project, the motivations for your work, and general deliverables that are expected to be created throughout the analysis.
 ## Rubric Documents
+The Rubric Document is given here.  This document outlines details for deliverables and necessary procedures for formatting, scripts, output, results, and references.  The rubric document also outlines tips for success with this assignment, and explanations for the purpose of this assignment. 
 ## Data Information
 The data used in this project is sourced from Our World in Data.
 
