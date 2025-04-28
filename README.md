@@ -7,7 +7,7 @@ The Hook Document is given here [CS3 Hook Document](./CS3%20Hook%20Document.pdf)
 ## Rubric Documents
 The Rubric Document is given here [CS3 Rubric](./CS3%20Rubric.pdf).  This document outlines details for deliverables and necessary procedures for formatting, scripts, output, results, and references.  The rubric document also outlines tips for success with this assignment, and explanations for the purpose of this assignment. 
 ## Data Information
-The data used in this project is sourced from Our World in Data.
+The data used in this project is sourced from Our World in Data.  The datasets necessary for project completion are given here [Data](./Data)
 
 <a id="1">[1]</a> UN WPP (2024); HMD (2024); Zijdeman et al. (2015); Riley (2005) – with minor processing by Our World in Data. “Life expectancy at birth – Various sources – period tables” [dataset]. Human Mortality Database, “Human Mortality Database”; United Nations, “World Population Prospects”; Zijdeman et al., “Life Expectancy at birth 2”; James C. Riley, “Estimates of Regional and Global Life Expectancy, 1800-2001” [original data]. Retrieved March 4, 2025 from https://ourworldindata.org/grapher/life-expectancy.
 
