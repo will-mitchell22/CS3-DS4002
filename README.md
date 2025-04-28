@@ -1,7 +1,7 @@
 # Forecasting Life Expectancy
 ## DS4002 Case Study by William Mitchell
 This repository contains the materials and instructions necessary to complete a case study on Forecasting Life Expectancy using Time-Series data.  This case study was created during the DS4002 course of Spring 2025.
-![Alt text](images/global-life-expectancy-increase-2050-1440x810.jpg)
+![Alt text](Images/global-life-expectancy-increase-2050-1440x810.jpg)
 ## Hook Documents
 The Hook Document is given here [CS3 Hook Document](./CS3%20Hook%20Document.pdf).  This document gives context behind the significance of this project, the motivations for your work, and general deliverables that are expected to be created throughout the analysis.
 ## Rubric Documents
